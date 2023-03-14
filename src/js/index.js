@@ -1,5 +1,3 @@
-alert('Alerta de melhor ator!');
-
 const botoesCarrossel = document.querySelectorAll('.botao');
 
 
